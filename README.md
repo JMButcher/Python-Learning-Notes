@@ -55,7 +55,7 @@ Mobile App Development
 Web Scraping
 
 ## App 8 - Data Collector Web App
-Flash abd PostGreSQL
+Flash and PostGreSQL
 
 ## App 9 - Blog and Translator App
 Django and Bootstrap
