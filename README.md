@@ -28,11 +28,10 @@ Expanding on the basics
 ## App 1 - Interactive Mapping of Population and Volcanoes
 Web Mapping with Python
  - Fixing Programming Errors
- - Image and Video Processing with Python
+ - Processing CSV and JSON files with Python
 
 ## App 2 - Controlling the Webcam and Detecting Objects
 Controlling the Webcam and Detecting Objects
- - Interactive Data Virtualization with Python and Bokeh
 
 ## App 3 - In-Browser Interactive Plots
 Data Analysis and Visualization
